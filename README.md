@@ -8,7 +8,7 @@ I'm a MERN FULL Stack Developer with hands-on experience in designing developing
 
 ## Tech Stack
 Languages
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)]
+![React Badge(https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)]
 
 #### Top Technologies
 
