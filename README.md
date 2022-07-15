@@ -81,7 +81,7 @@ I'm a MERN FULL Stack Developer with hands-on experience in designing developing
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/12xC7P7bOTFgUx8Rvhv-pDkGWm-eHjZQt/view?usp=sharing)
 - :email: rajsingh19998gmail.com
 
 
