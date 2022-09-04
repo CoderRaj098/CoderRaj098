@@ -11,7 +11,7 @@ I'm a MERN FULL Stack Developer with hands-on experience in designing developing
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio] : https://astounding-banoffee-9802c2.netlify.app**
+- 👨‍💻 All of my projects are available at **[My Portfolio] : https://eloquent-gumdrop-5f8e44.netlify.app**
 
 - 📫 How to reach me **rajsingh191998@gmail.com**
 
